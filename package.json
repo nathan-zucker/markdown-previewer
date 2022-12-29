@@ -1,8 +1,8 @@
 {
-  "homepage": "https://nathan-zucker.github.io/markdown-previewer",
-  "name": "markdown-previewer",
+  "homepage": "https://nathan-zucker.github.io/markdown-demo",
+  "name": "markdown-demo",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
