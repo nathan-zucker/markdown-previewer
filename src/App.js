@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import React from 'react';
 import { marked } from 'marked';
@@ -41,6 +41,7 @@ class App extends React.Component {
       <div className="App">
         <body id='body'>
           <div id='markup'>
+            <p>i am deployed in the correct repository</p>
             <h2>HTML Markup</h2>
             <div>
               <textarea onChange={this.updateMarkup}>{this.state.markup}</textarea>
